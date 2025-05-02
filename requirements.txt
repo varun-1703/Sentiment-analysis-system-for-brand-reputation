@@ -1,0 +1,32 @@
+# Core API and Dashboard dependencies
+fastapi==0.115.12
+uvicorn==0.34.2
+dash==3.0.4  # Latest version compatible with our dashboard
+dash-bootstrap-components==2.0.2
+plotly==5.18.0
+pandas==2.2.3
+numpy>=2.0.0
+
+# NLP and ML dependencies
+transformers==4.51.3
+torch==2.7.0
+bertopic==0.17.0
+sentence-transformers==4.1.0
+hdbscan==0.8.40
+umap-learn==0.5.7
+scikit-learn==1.6.1
+
+# Data collection
+praw==7.8.1
+newsapi-python==0.2.7
+feedparser==6.0.11
+requests==2.32.3
+
+# Utilities
+python-dotenv==1.1.0
+tqdm==4.67.1  # Progress bars
+wordcloud==1.9.2  # Word cloud visualization
+Pillow==11.2.1  # For image processing with wordcloud
+
+# Optional for advanced BERTopic viz (if needed later)
+# plotly>=4.7.0
