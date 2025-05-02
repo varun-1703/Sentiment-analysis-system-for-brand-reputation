@@ -1,4 +1,4 @@
-# 🔍 Brand Reputation Monitor
+# 🔍 Sentiment Analysis System For Brand Reputation 
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -43,7 +43,7 @@ The heart of this platform leverages cutting-edge NLP models and techniques:
 
 ### Prerequisites
 - Python 3.9+
-- API keys for NewsAPI and Reddit (optional)
+- API keys for NewsAPI and Reddit 
 
 ### Installation
 
